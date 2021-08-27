@@ -1,0 +1,88 @@
+h1.InterShop{
+    color: #0005ff;
+}
+
+h1.serveur{
+    color: #0005ff;
+}
+
+a{
+    color: #0005ff;
+}
+
+body{
+    background-color: #050000;
+}
+
+nav.menu{
+    color: #0005ff;
+}
+
+h1.InterShop{
+    font-size: 100px;
+    padding-left: 400px;
+}
+
+h1.serveur{
+    font-size: 100px;
+    padding-left: 300px;
+}
+
+a{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h1.tools{
+    color: #0005ff;
+    font-size: 100px;
+    padding-left: 300px;
+}
+
+h1.shop{
+    color: #0005ff;
+    font-size: 100px;
+    padding-left: 400px;
+}
+
+h1.e-books{
+    color: #0005ff;
+    font-size: 100px;
+    padding-left: 300px;
+}
+
+h1.refund{
+    color: #0005ff;
+    font-size: 100px;
+    padding-left: 300px;
+}
+
+h1.cc{
+    color: #0005ff;
+    font-size: 100px;
+    padding-left: 400px;
+}
+
+h1.account{
+    color: #0005ff;
+    font-size: 80px;
+    padding-left: 100px;
+}
+
+h1.token{
+    color: #0005ff;
+    font-size: 80px;
+    padding-left: 400px;
+}
+
+h1.serveur-discord{
+    color: #0005ff;
+    font-size: 80px;
+    padding-left: 250px;
+}
+
+h1.proxys{
+    color: #0005ff;
+    font-size: 80px;
+    padding-left: 400px;
+}
